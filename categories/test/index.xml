@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Test on Dzwire</title>
-    <link>https://github.com/tuviretinfo/dzwire.git/categories/test/</link>
+    <link>https://tuviretinfo.github.io/dzwire/categories/test/</link>
     <description>Recent content in Test on Dzwire</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jan 2024 11:30:00 +0300</lastBuildDate>
-    <atom:link href="https://github.com/tuviretinfo/dzwire.git/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tuviretinfo.github.io/dzwire/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing My New Hugo Website</title>
-      <link>https://github.com/tuviretinfo/dzwire.git/posts/testarticle/testarticle/</link>
+      <link>https://tuviretinfo.github.io/dzwire/posts/testarticle/testarticle/</link>
       <pubDate>Mon, 15 Jan 2024 11:30:00 +0300</pubDate>
-      <guid>https://github.com/tuviretinfo/dzwire.git/posts/testarticle/testarticle/</guid>
+      <guid>https://tuviretinfo.github.io/dzwire/posts/testarticle/testarticle/</guid>
       <description>A test article to verify my Hugo website is working properly</description>
     </item>
   </channel>
