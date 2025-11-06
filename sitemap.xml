@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/</loc>
     <lastmod>2025-11-04T17:09:46+01:00</lastmod>
   </url><url>
-    <loc>/posts/earth/earth/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/posts/earth/earth/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/myfirstpost/my-first-post/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/posts/myfirstpost/my-first-post/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/posts/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/categories/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/categories/development/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/categories/development/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/tags/github/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/tags/github/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/tags/hugo/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/tags/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/categories/test/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/categories/test/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/posts/testarticle/testarticle/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/posts/testarticle/testarticle/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/tags/webdev/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/tags/webdev/</loc>
     <lastmod>2024-01-15T11:30:00+03:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/about/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/contact/</loc>
   </url><url>
-    <loc>/privacy/</loc>
+    <loc>https://github.com/tuviretinfo/dzwire.git/privacy/</loc>
   </url>
 </urlset>

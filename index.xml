@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dzwire</title>
-    <link>/</link>
+    <link>https://github.com/tuviretinfo/dzwire.git/</link>
     <description>Recent content on Dzwire</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/tuviretinfo/dzwire.git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Earth: The Pale Blue Dot We Call Home</title>
-      <link>/posts/earth/earth/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/posts/earth/earth/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/earth/earth/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/posts/earth/earth/</guid>
       <description>Earth is more than just the third planet from the Sun; it is, as far as we know, a unique oasis of life in the vast emptiness of space. A swirling marble of blue, white, and green, it is our only home, and its story is one of dynamic change, incredible resilience, and profound beauty.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>/posts/myfirstpost/my-first-post/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/posts/myfirstpost/my-first-post/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/myfirstpost/my-first-post/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/posts/myfirstpost/my-first-post/</guid>
       <description>A first for Canada&amp;hellip;</description>
     </item>
     <item>
       <title>Testing My New Hugo Website</title>
-      <link>/posts/testarticle/testarticle/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/posts/testarticle/testarticle/</link>
       <pubDate>Mon, 15 Jan 2024 11:30:00 +0300</pubDate>
-      <guid>/posts/testarticle/testarticle/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/posts/testarticle/testarticle/</guid>
       <description>A test article to verify my Hugo website is working properly</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/about/</guid>
       <description>&lt;p&gt;Welcome to my website!&lt;br&gt;
 This site shares articles about random stuff.&lt;br&gt;
 I use the PaperMod theme with Hugo to keep everything fast and simple.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/contact/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/contact/</guid>
       <description>&lt;p&gt;You can reach me at:&lt;br&gt;
 📧 &lt;strong&gt;&lt;a href=&#34;mailto:tuviretinfo@gmail.com&#34;&gt;tuviretinfo@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/privacy/</guid>
       <description>&lt;p&gt;We respect your privacy.&lt;br&gt;
 We may use cookies or third-party services (like Google AdSense) to improve user experience.&lt;br&gt;
 We never sell or share your data.&lt;/p&gt;</description>

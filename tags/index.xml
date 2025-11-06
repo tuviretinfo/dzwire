@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dzwire</title>
-    <link>/tags/</link>
+    <link>https://github.com/tuviretinfo/dzwire.git/tags/</link>
     <description>Recent content in Tags on Dzwire</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jan 2024 11:30:00 +0300</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/tuviretinfo/dzwire.git/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github</title>
-      <link>/tags/github/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/tags/github/</link>
       <pubDate>Mon, 15 Jan 2024 11:30:00 +0300</pubDate>
-      <guid>/tags/github/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>/tags/hugo/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/tags/hugo/</link>
       <pubDate>Mon, 15 Jan 2024 11:30:00 +0300</pubDate>
-      <guid>/tags/hugo/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Webdev</title>
-      <link>/tags/webdev/</link>
+      <link>https://github.com/tuviretinfo/dzwire.git/tags/webdev/</link>
       <pubDate>Mon, 15 Jan 2024 11:30:00 +0300</pubDate>
-      <guid>/tags/webdev/</guid>
+      <guid>https://github.com/tuviretinfo/dzwire.git/tags/webdev/</guid>
       <description></description>
     </item>
   </channel>
