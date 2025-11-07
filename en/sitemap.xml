@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tuviretinfo.github.io/dzwire/tags/algeria/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tuviretinfo.github.io/dzwire/tags/culture/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <loc>https://tuviretinfo.github.io/dzwire/ar/</loc>
+    <lastmod>2025-11-07T18:22:41+01:00</lastmod>
   </url><url>
     <loc>https://tuviretinfo.github.io/dzwire/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-07T18:22:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -21,11 +18,57 @@
                 href="https://tuviretinfo.github.io/dzwire/"
                 />
   </url><url>
+    <loc>https://tuviretinfo.github.io/dzwire/tags/algeria/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://tuviretinfo.github.io/dzwire/ar/tags/algeria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tuviretinfo.github.io/dzwire/tags/algeria/"
+                />
+  </url><url>
+    <loc>https://tuviretinfo.github.io/dzwire/tags/culture/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://tuviretinfo.github.io/dzwire/ar/tags/culture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tuviretinfo.github.io/dzwire/tags/culture/"
+                />
+  </url><url>
     <loc>https://tuviretinfo.github.io/dzwire/tags/history/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://tuviretinfo.github.io/dzwire/ar/tags/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tuviretinfo.github.io/dzwire/tags/history/"
+                />
   </url><url>
     <loc>https://tuviretinfo.github.io/dzwire/posts/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://tuviretinfo.github.io/dzwire/ar/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tuviretinfo.github.io/dzwire/posts/"
+                />
   </url><url>
     <loc>https://tuviretinfo.github.io/dzwire/tags/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
@@ -42,6 +85,16 @@
   </url><url>
     <loc>https://tuviretinfo.github.io/dzwire/posts/algerian/algerianrevolt/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://tuviretinfo.github.io/dzwire/ar/posts/algerian/algerianrevolt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tuviretinfo.github.io/dzwire/posts/algerian/algerianrevolt/"
+                />
   </url><url>
     <loc>https://tuviretinfo.github.io/dzwire/posts/earth/earth/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
