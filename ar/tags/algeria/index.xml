@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Algeria on DZWIRE</title><link>https://tuviretinfo.github.io/dzwire/ar/tags/algeria/</link><description>Recent content in Algeria on DZWIRE</description><generator>Hugo -- 0.152.2</generator><language>ar</language><lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://tuviretinfo.github.io/dzwire/ar/tags/algeria/index.xml" rel="self" type="application/rss+xml"/><item><title>The Price of Freedom: Remembering Algeria's Hard-Fought Independence</title><link>https://tuviretinfo.github.io/dzwire/ar/posts/algerian/algerianrevolt/</link><pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate><guid>https://tuviretinfo.github.io/dzwire/ar/posts/algerian/algerianrevolt/</guid><description>Let&amp;rsquo;s talk about a revolution that wasn&amp;rsquo;t just a chapter in a history book, but a raw, bloody fight for a people&amp;rsquo;s very identity.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Algeria on DZWIRE</title>
+    <link>http://localhost:1313/ar/tags/algeria/</link>
+    <description>Recent content in Algeria on DZWIRE</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>ar</language>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ar/tags/algeria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Price of Freedom: Remembering Algeria&#39;s Hard-Fought Independence</title>
+      <link>http://localhost:1313/ar/posts/algerian/algerianrevolt/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ar/posts/algerian/algerianrevolt/</guid>
+      <description>Let&amp;rsquo;s talk about a revolution that wasn&amp;rsquo;t just a chapter in a history book, but a raw, bloody fight for a people&amp;rsquo;s very identity.</description>
+    </item>
+  </channel>
+</rss>
